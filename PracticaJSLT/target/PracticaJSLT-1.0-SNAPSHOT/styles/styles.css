@@ -1,0 +1,44 @@
+/* 
+    Created on : 31 oct 2024, 21:34:08
+    Author     : Bell
+*/
+
+* {
+    background-color: #d9d9d9;
+    color: #000000;
+}
+
+h1 {
+    font-size: 1.4rem;
+    text-align: center;
+    margin-top: 2rem;
+    padding: 1rem;
+
+}
+
+.h2{
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 10rem;
+    margin: 1rem;
+    padding: 1rem;
+    font-weight: bolder;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    font-size: 1rem;
+    background-color: #ef2626;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    border-radius: 2rem;
+}
+
